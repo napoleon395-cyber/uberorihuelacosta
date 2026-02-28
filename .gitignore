@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Builds
+.next
+out
+
+# Large files
+*.node
+*.so
+*.dll
